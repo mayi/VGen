@@ -14,4 +14,4 @@ use_zero_infer: True
 # For important input
 vldm_cfg: configs/i2vgen_xl_train.yaml
 test_list_path: data/test_list_for_i2vgen.txt
-test_model: models/i2vgen_xl_00854500.pth
+test_model: /mnt/workspace/VGen/models/damo/I2VGen-XL/i2vgen_xl_00854500.pth
